@@ -1,11 +1,79 @@
-# Oi, tudo bem? 👋
+# Jaquison Ferreira 👨‍💻
 
-Sou o Jaquison, mas pode me chamar de Jaq. 😎 Sou um engenheiro de software com 14 anos de experiência em tecnologias super legais, tipo NodeJS, React e React Native. 🚀
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaquisonferreira-505360205/)](https://www.linkedin.com/in/jaquisonferreira-505360205/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaquisonsferreira@gmail.com)](mailto:jaquisonsferreira@gmail.com)
 
-Tenho formação em Ciências da Computação e sou o cara que domina `TypeScript`, `Socket.IO`, `NestJS`, `NextJS`, `Docker`, `Kubernetes`, `Jest`, `MongoDB`, `FaunaDB`, `Postgres`, `React`, `React Native`, `AWS`, `Google Cloud`, `JAMStack`, `Serverless`, `GraphQL`... e outras coisas que nem cabem aqui! 😅
+## Co-founder & CTO | Tech Leader | Backend Specialist 🚀
 
-Adoro desafios e sempre estou buscando aprender mais. Se você tem um projeto maneiro ou uma ideia inovadora, podemos trocar uma ideia e fazer acontecer! 🤝
+Com mais de 14 anos de experiência em desenvolvimento de software, sou especializado em arquiteturas escaláveis e tecnologias modernas. Minha missão é encontrar soluções inovadoras e eficientes que se alinhem com estratégias de negócios, sempre considerando as melhores práticas e otimização de performance.
 
-Estou disponível para contribuir em projetos open source e quem sabe, criar algo incrível juntos! 🤩
+### 🛠️ Stack Tecnológico
 
-Então, bora codar? 💻
+```typescript
+const stack = {
+    backend: {
+        node: ['Node.js', 'NestJS', 'Express', 'Socket.IO'],
+        languages: ['TypeScript', 'JavaScript', 'Elixir'],
+        apis: ['REST', 'GraphQL'],
+        databases: ['MongoDB', 'PostgreSQL', 'FaunaDB', 'SQL Server']
+    },
+    frontend: {
+        web: ['React', 'Next.js', 'JAMStack'],
+        mobile: ['React Native'],
+        styling: ['CSS3', 'Styled Components', 'Tailwind']
+    },
+    devOps: {
+        cloud: ['AWS', 'Google Cloud', 'Azure'],
+        containers: ['Docker', 'Kubernetes'],
+        ci: ['Jenkins']
+    },
+    security: {
+        apps: ['APPSEC', 'Secure Development'],
+        practices: ['Best Practices', 'Security First']
+    },
+    architecture: ['Microservices', 'Serverless', 'Event-Driven']
+}
+```
+
+### 🏢 Experiência Profissional Destacada
+
+- **Co-Founder & CTO** @ Connectabil _(2021 - Presente)_
+- **Tech Lead** @ DFCom Software House _(2024 - Presente)_
+- **Technical Leader** @ Dasa _(2021 - 2023)_
+  - Desenvolvimento de aplicação inovadora para monitoramento de pacientes
+  - Stack: Node.js, GraphQL, MongoDB, Azure Cloud, Jenkins, BigQuery
+- **Senior Backend Developer** @ PowerHouse _(2023)_
+- **Full Stack Engineer** @ Inventa _(2021)_
+
+### 🎯 Principais Projetos
+
+- **Sistema de Monitoramento de Pacientes** - Plataforma em tempo real para profissionais de saúde
+- **Soluções B2B para Varejo** - Empoderamento de empreendedores na América Latina
+- **Aplicações de Gestão Fitness** - Sistema de comunicação entre alunos e academias
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaquisonsferreira&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaquisonsferreira&layout=compact&theme=dracula)
+
+### 🎓 Educação & Certificações
+
+- **Bacharelado em Ciência da Computação** - Centro Universitário FMU | FIAM-FAAM _(2012 - 2016)_
+- **Secure Development (APPSEC)** - Cecyber _(2022 - 2023)_
+- **English Studies** - Cork English College _(2023)_
+
+### 💡 Interesses & Foco
+
+- Desenvolvimento de soluções escaláveis e inovadoras
+- Arquitetura de software e melhores práticas
+- DevOps e Cloud Computing
+- Segurança de Aplicações
+- Contribuições Open Source
+
+---
+
+### 📫 Contato
+
+Estou sempre aberto para discutir novos projetos, ideias inovadoras ou oportunidades de colaboração.
+
+[![LinkedIn](https://img.shields.io/badge/-Conecte--se%20no%20LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaquisonferreira-505360205/)](https://www.linkedin.com/in/jaquisonferreira-505360205/)

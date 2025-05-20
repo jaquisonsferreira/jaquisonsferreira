@@ -1,79 +1,61 @@
-# Jaquison Ferreira 👨‍💻
+# 👋 Olá! Eu sou o Jaquison Ferreira
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaquisonferreira-505360205/)](https://www.linkedin.com/in/jaquisonferreira-505360205/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaquisonsferreira@gmail.com)](mailto:jaquisonsferreira@gmail.com)
-
-## Co-founder & CTO | Tech Leader | Backend Specialist 🚀
-
-Com mais de 14 anos de experiência em desenvolvimento de software, sou especializado em arquiteturas escaláveis e tecnologias modernas. Minha missão é encontrar soluções inovadoras e eficientes que se alinhem com estratégias de negócios, sempre considerando as melhores práticas e otimização de performance.
-
-### 🛠️ Stack Tecnológico
-
-```typescript
-const stack = {
-    backend: {
-        node: ['Node.js', 'NestJS', 'Express', 'Socket.IO'],
-        languages: ['TypeScript', 'JavaScript', 'Elixir'],
-        apis: ['REST', 'GraphQL'],
-        databases: ['MongoDB', 'PostgreSQL', 'FaunaDB', 'SQL Server']
-    },
-    frontend: {
-        web: ['React', 'Next.js', 'JAMStack'],
-        mobile: ['React Native'],
-        styling: ['CSS3', 'Styled Components', 'Tailwind']
-    },
-    devOps: {
-        cloud: ['AWS', 'Google Cloud', 'Azure'],
-        containers: ['Docker', 'Kubernetes'],
-        ci: ['Jenkins']
-    },
-    security: {
-        apps: ['APPSEC', 'Secure Development'],
-        practices: ['Best Practices', 'Security First']
-    },
-    architecture: ['Microservices', 'Serverless', 'Event-Driven']
-}
-```
-
-### 🏢 Experiência Profissional Destacada
-
-- **Co-Founder & CTO** @ Connectabil _(2021 - Presente)_
-- **Tech Lead** @ DFCom Software House _(2024 - Presente)_
-- **Technical Leader** @ Dasa _(2021 - 2023)_
-  - Desenvolvimento de aplicação inovadora para monitoramento de pacientes
-  - Stack: Node.js, GraphQL, MongoDB, Azure Cloud, Jenkins, BigQuery
-- **Senior Backend Developer** @ PowerHouse _(2023)_
-- **Full Stack Engineer** @ Inventa _(2021)_
-
-### 🎯 Principais Projetos
-
-- **Sistema de Monitoramento de Pacientes** - Plataforma em tempo real para profissionais de saúde
-- **Soluções B2B para Varejo** - Empoderamento de empreendedores na América Latina
-- **Aplicações de Gestão Fitness** - Sistema de comunicação entre alunos e academias
-
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaquisonsferreira&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaquisonsferreira&layout=compact&theme=dracula)
-
-### 🎓 Educação & Certificações
-
-- **Bacharelado em Ciência da Computação** - Centro Universitário FMU | FIAM-FAAM _(2012 - 2016)_
-- **Secure Development (APPSEC)** - Cecyber _(2022 - 2023)_
-- **English Studies** - Cork English College _(2023)_
-
-### 💡 Interesses & Foco
-
-- Desenvolvimento de soluções escaláveis e inovadoras
-- Arquitetura de software e melhores práticas
-- DevOps e Cloud Computing
-- Segurança de Aplicações
-- Contribuições Open Source
+Sou Co-founder & CTO | Tech Leader | Backend Specialist com foco em **Node.js, React, React Native, NestJS e MongoDB**, atuando em projetos de alta performance e impacto real. Tenho experiência em liderar times, estruturar sistemas escaláveis e aplicar boas práticas de arquitetura de software. Também empreendo e desenvolvo soluções SaaS, plataformas de recrutamento, sistemas de franquias e aplicativos mobile.
 
 ---
 
-### 📫 Contato
+## 🚀 O que eu faço
 
-Estou sempre aberto para discutir novos projetos, ideias inovadoras ou oportunidades de colaboração.
+- 🧠 **Back-end escalável** com Node.js (NestJS, Express), MongoDB, Redis, Kafka e AWS Lambda
+- ⚙️ **Arquitetura e liderança técnica** com foco em boas práticas, SOLID, TDD e Clean Architecture
+- 📱 **Apps mobile** com React Native e integração com sistemas complexos
+- 🌐 **Front-end moderno** com Next.js, Zustand/Jotai, e SSR
+- 🌎 **Soluções serverless** com SST, API Gateway, e integração com AWS
+- 🧩 **Microsserviços e GraphQL** com Apollo Federation e Prisma
+- 🔒 **Autenticação e segurança** com Keycloak e autenticação social
+- 🎯 **Projetos de impacto real** em varejo, moda, RH e sorteios digitais
 
-[![LinkedIn](https://img.shields.io/badge/-Conecte--se%20no%20LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaquisonferreira-505360205/)](https://www.linkedin.com/in/jaquisonferreira-505360205/)
+---
+
+## 🌱 Atualmente estudando
+
+- 🛠️ **Blockchain & Smart Contracts**
+- 🧠 **IA aplicada a produtos reais**
+- 🦀 **Rust e Golang para back-end performático**
+
+---
+
+## 📌 Alguns projetos interessantes
+
+| Projeto | Descrição |
+|--------|----------|
+| **Sistema de Pontuação para Franquias** | Gestão de pontos e benefícios por PIX e Giracrédito com regras complexas |
+| **Plataforma de Recrutamento** | Sistema com candidatos, clientes, recrutadores, matching inteligente e kanban por vaga |
+| **Feed de Stories em Alta Disponibilidade** | Upload e distribuição de vídeos e fotos com Cloudinary e estratégias de cache |
+| **Monitoramento de Conversas com IA** | Bot para Discord que analisa criticidade e cria tarefas automáticas com Langchain |
+
+---
+
+## 🧰 Stacks e ferramentas favoritas
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![NextJS](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=amazonaws&logoColor=white)
+
+---
+
+## 📫 Contato
+
+Se quiser conversar sobre tecnologia, colaboração ou ideias para startups, me chama:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jaquison-ferreira-505360205)
+- ✉️ jaquisonferreira@gmail.com
+
+---
+
+⭐ **Curte tecnologia, resolve problemas e entrega valor real com código.**
